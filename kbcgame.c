@@ -2,7 +2,7 @@
 #include <ctype.h>
 #include <stdlib.h>
 #include <string.h>
-//kbcgame
+
 int lifeline_5050 = 1, lifeline_flip = 1, lifeline_poll = 1;
 
 struct Question
