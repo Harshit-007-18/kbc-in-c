@@ -1,5 +1,5 @@
 
-# 🎮 KBC in C (Kaun Banega Crorepati – CLI Game)
+# 🎮  KBC in C (Kaun Banega Crorepati – CLI Game)
 
 A simple command-line implementation of the popular quiz game **Kaun Banega Crorepati (KBC)** built using the C programming language. This project simulates the core gameplay experience including multiple-choice questions, lifelines, and progressive prize levels.
 
