@@ -5,7 +5,7 @@ A simple command-line implementation of the popular quiz game **Kaun Banega Cror
 
 ---
 
-## 📌 What is this project?
+## 📌  What is this project?
 
 **KBC in C** is a console-based quiz game inspired by the Indian TV show *Kaun Banega Crorepati*. The program presents users with a series of questions of increasing difficulty, each with four options. The player must select the correct answer to progress and win higher prize amounts.
 
